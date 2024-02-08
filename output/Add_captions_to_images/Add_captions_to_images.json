@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "4395e6c6-3f9f-4d1b-a2ff-160ed656e80b",
+  "comprimento do conteúdo": "165",
+  "content-type": "aplicativo/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "um foguete sendo lançado com fogo e fumaça",
+    "confiança": 0,7093275189399719
+  },
+  "metadados": {
+    "largura": 270,
+    "altura": 405
+  }
+}
