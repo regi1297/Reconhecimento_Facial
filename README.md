@@ -33,6 +33,7 @@ O recurso de reconhecimento óptico de caracteres (OCR) oferece suporte a imagen
 
 O serviço de análise de imagens permite realizar uma variedade de tarefas, gera uma frase legível que descreve o conteúdo de uma imagem.
 
+
 ### insights:
 
 - categorias/marcas
