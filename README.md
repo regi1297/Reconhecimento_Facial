@@ -44,4 +44,4 @@ O serviço de análise de imagens permite realizar uma variedade de tarefas, ger
 Foi possível análisar as informações das imagens e extrair dados relevantes, como os atributos da imagem,
 codigo .json que contêm informações sobre o conteúdo da imagem. E aprender os proximos passos
 para realizar mais análises com base nessas informações.
-iniciar, Experimente o SDK, Revise os preços e Uso responsável de IA
+iniciar, Experimente o SDK, Revise os preços e Uso responsável de IA.
